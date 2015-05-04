@@ -86,11 +86,11 @@ public class GeraFrase : MonoBehaviour {
 		"Viva a vida, não deixe ela simplesmente acontecer, acredite em suas escolhas, acredite em suas conseqüências. Thais S.G",
 		"Todos desanimamos em certo ponto, mas acredite que o melhor esta por vir. Eve Frozino",
 		"Acredite na vida, isso sim vale.  Edson Rufo"};
-	//FARIAVEL FRASE DO TIPO PUBLICA PERMITINDO EXPANÇAO DO ARQUIVO
+	//VARIAVEL FRASE DO TIPO PUBLICA PERMITINDO EXPANÇAO DO ARQUIVO
 	public string frase = "";
 	Text text;	
 
-	// PEGA OS VALORES DA VARIALVE TEXT E JOGA EM Text
+	//PEGA OS VALORES DA VARIALVE TEXT E JOGA EM Text
 	void Awake () {
 		text = GetComponent <Text> ();
 	}
