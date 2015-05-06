@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine.UI;
 
 public class GeraFrase : MonoBehaviour {
-	//MOSTRA QUANTIDADE DE FRASE
+	//MOSTRA QUANTIDADE DE FRASE2
 	string[] frasesMotivation = {
 		"Precisamos de pessoas perseverantes diante das dificuldades, que nunca desistam dos seus ideais, que sonhem com um mundo melhor e tenham coragem de lutar por ele. Pessoas menos egoístas, que estejam preocupadas com a qualidade de vida da próxima geração.  Daniel Tomaz",
 		"Dois homens não podem passar meia hora juntos sem que um conquiste uma evidente superioridade em relação ao outro.  Samuel Johnson",
